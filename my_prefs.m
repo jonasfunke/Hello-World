@@ -15,3 +15,4 @@ set(0,'defaultlinelinewidth',2)
 set(0,'DefaultLineMarkerSize',15)
 
 % Leberkas
+% ist lecker
