@@ -16,3 +16,4 @@ set(0,'DefaultLineMarkerSize',15)
 
 % Leberkas
 % ist lecker
+% das wurde vom iMac gemacht
